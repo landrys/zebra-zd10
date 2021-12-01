@@ -27,4 +27,4 @@ Information contained here is for the setup of a label printing system using the
   *  http://localhost:631/printers/Zebra_Technologies_ZTC_ZD410_203dpi_ZPL
 
 ## OTHER
-  *  Buy One: https://www.barcodefactory.com/zebra/printers/zd410/zd41023-d01000ez
+  *  https://www.barcodefactory.com/zebra/printers/zd410/zd41023-d01000ez
