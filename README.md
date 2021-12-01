@@ -13,7 +13,7 @@ Information contained here is for the setup of a label printing system using the
    * Click setup
    * The Default printer should be selected. If other printers are there be sure to select the ZPL printer not a driver.
    * Click TEST. If ok a label should be printed.
-   * On Bikescanner select ZD410 Printer for printer.
+   * On Bikescanner select 'Attached Locally' for printer.
    * Scan as before. Labels should print on locally attached label printer
 
 ## Browser Print 
