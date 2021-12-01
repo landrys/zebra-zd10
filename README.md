@@ -1,13 +1,7 @@
 #  Zebra-ZD410 Locally Attached Label Printer Setup 
   
 ## Summary
-Information contained here is for the setup of a label printing systen using the ZD-410 Zebra printer and the Browserprint tool from Zebra. This setup will allow the browser applicaion, Eleven, to be able to print to the locally attached printer without the need to select a printer and confirmation of selected printer. The Browserprint tool is included in the this distributaion for Windows.  The instructions to set it up is also included. Before installing the browserprint tool the printer needs to be connected and working on the computer. Eleven can now connect to the the printer via the browserprint tool to print labels. Please follow procedure below.
-
-
-
-ONce that is done and printer is working the browserprint tool can be installed and run by following instructions. Once that is done, open eleven and click on the snowman on upper right hand side and select 
-
-
+Information contained here is for the setup of a label printing system using the ZD-410 Zebra printer and the Browserprint tool from Zebra. This setup will allow the browser applicaion, Eleven, to be able to print to the locally attached printer without the need to select a printer and confirmation of selected printer. The Browserprint tool is included in the this distribution for Windows.  The instructions to set it up is also included. Before installing the browserprint tool the printer needs to be connected and working on the computer. Eleven can now connect to the the printer via the browserprint tool to print labels. Please follow procedure below.
 
 ## Procedure
    * Setup zebra label printer on computer by following zebra instructions. Make sure it is working before procedding.
