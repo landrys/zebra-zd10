@@ -5,7 +5,7 @@ Information contained here is for the setup of a label printing system using the
 
 ## Procedure
    * Setup zebra label printer on computer by following zebra instructions. Make sure it is working before proceeding.
-   * Install Broserprint tool. Get it from links below or from the file(zebra-browser-print-windows-v131445.exe) included  in shared drive. Follow instructions(zebra-browser-print-user-guide-v1-3-en-us.pdf) provided by Zebra. Those are also included in shared drive or can be downloaded from provided link.
+   * Install Browserprint tool. Get it from links below or from the file(zebra-browser-print-windows-v131445.exe) included  in shared drive. Follow instructions(zebra-browser-print-user-guide-v1-3-en-us.pdf) provided by Zebra. Those are also included in shared drive or can be downloaded from provided link.
    * Set up the attached printer as the default printer using the Browserprint tool settings. Please uncheck driver search.
    * Open up Eleven
    * Click on configuration icon ( snowman on top right ).
