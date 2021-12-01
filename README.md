@@ -18,16 +18,13 @@ Information contained here is for the setup of a label printing system using the
 
 ## Browser Print 
   I included the download in this shared directory but if you need to get it yourself use link below. Be sure to select the one for Windows.
-  * https://www.zebra.com/us/en/support-downloads/printer-software/by-request-software.html
-
-## Windows 
-
-  *  Browser print: https://www.zebra.com/us/en/support-downloads/printer-software/printer-setup-utilities.html#featureforoperatings_1457791078
-  *  Setup Utilities: https://www.zebra.com/us/en/support-downloads/printer-software/printer-setup-utilities.html#featureforoperatings_1457791078
+  * Application: https://www.zebra.com/us/en/support-downloads/printer-software/by-request-software.html
+  * Guide: https://www.zebra.com/content/dam/zebra_new_ia/en-us/solutions-verticals/product/Software/Printer%20Software/Link-OS/browser-print/zebra-browser-print-user-guide-v1-3-en-us.pdf
 
 ## MAC
 
   *  Install CUPS on MAC: https://supportcommunity.zebra.com/s/article/Install-CUPS-driver-for-Zebra-Printer-in-Mac-OS?language=en_US
   *  http://localhost:631/printers/Zebra_Technologies_ZTC_ZD410_203dpi_ZPL
 
+## OTHER
   *  Buy One: https://www.barcodefactory.com/zebra/printers/zd410/zd41023-d01000ez
