@@ -1,10 +1,26 @@
-#  Zebra-ZD10 Locally Attached Label Printer Setup 
+#  Zebra-ZD410 Locally Attached Label Printer Setup 
   
+## Summary
+Information contained here is for the setup of a label printing systen using the ZD-410 Zebra printer and the Browserprint tool from Zebra. This setup will allow the browser applicaion, Eleven, to be able to print to the locally attached printer without the need to select a printer and confirmation of selected printer. The Browserprint tool is included in the this distributaion for Windows.  The instructions to set it up is also included. Before installing the browserprint tool the printer needs to be connected and working on the computer. Eleven can now connect to the the printer via the browserprint tool to print labels. Please follow procedure below.
+
+
+
+ONce that is done and printer is working the browserprint tool can be installed and run by following instructions. Once that is done, open eleven and click on the snowman on upper right hand side and select 
+
+
 
 ## Procedure
-   * Install your drivers for the printer. I did include some downloaded content but this should already be done as the printers are working.
-   * Follow procedure to install Browserprint on windows. See included zebra-browser-print-user-guide-v1-3-en-us.pdf
-    (This is basically "The Daemon" used to communicate with the printer via http to print without prompting)
+   * Setup zebra label printer on computer by following zebra instructions. Make sure it is working before procedding.
+   * Install Broserprint tool. Get it from links below or from the file(zebra-browser-print-windows-v131445.exe) included  in this package. Follow instructions(zebra-browser-print-user-guide-v1-3-en-us.pdf) provided by Zebra. Those are also included in this package or can be downloaded from provided link.
+   * Set up the attached printer as the default printer using the Browserprint tool settings. Please uncheck driver search.
+   * Open up Eleven
+   * Click on configuration icon ( snowman on top right ).
+   * Select Local Printer Configuration
+   * Click setup
+   * The Default printer should be selected. If other printers are there be sure to select the ZPL printer not a driver.
+   * Click TEST. If ok a label should be printed.
+   * On Bikescanner select ZD410 Printer for printer.
+   * Scan as before. Labels should print on locally attached label printer
 
 ## Browser Print 
   I included the download in this shared directory but if you need to get it yourself use link below. Be sure to select the one for Windows.
